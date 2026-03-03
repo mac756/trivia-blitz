@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
-2:I[22042,["/_next/static/chunks/f84b1972043ae8b8.js"],"default"]
-3:I[37457,["/_next/static/chunks/f84b1972043ae8b8.js"],"default"]
-0:{"buildId":"8UgoKDxBfr7MmA53Lqyfm","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+2:I[22042,["/trivia-blitz/_next/static/chunks/f84b1972043ae8b8.js"],"default"]
+3:I[37457,["/trivia-blitz/_next/static/chunks/f84b1972043ae8b8.js"],"default"]
+0:{"buildId":"JjNN64qr2P3ee7uX2brz0","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}

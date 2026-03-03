@@ -47,7 +47,7 @@ export function QuestionCard({ question, selectedAnswer, isAnswered, onAnswer }:
               transition={{ delay: index * 0.1 }}
               onClick={() => !isAnswered && onAnswer(index)}
               disabled={isAnswered}
-              className={`w-full p-4 text-left rounded-xl font-medium transition-all duration-200 relative overflow-hidden
+              className={`w-full p-4 text-left rounded-xl font-medium transition-all duration-200 relative overflow-hidden group
                 ${
                   showCorrect
                     ? 'bg-emerald-500/20 border-2 border-emerald-500 text-emerald-400'
@@ -61,8 +61,9 @@ export function QuestionCard({ question, selectedAnswer, isAnswered, onAnswer }:
               `}
             >
               <span className="flex items-center gap-3">
-                <span className="flex-shrink-0 w-8 h-8 flex items-center justify-center rounded-lg bg-zinc-900/50 text-sm font-bold">
+                <span className="flex-shrink-0 w-8 h-8 flex items-center justify-center rounded-lg bg-zinc-900/50 text-sm font-bold border border-zinc-700 group-hover:border-zinc-600 transition-colors">
                   {String.fromCharCode(65 + index)}
+                  <span className="hidden md:inline text-zinc-500 text-xs ml-0.5">/{index + 1}</span>
                 </span>
                 <span>{option}</span>
               </span>

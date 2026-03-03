@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[28175,["/_next/static/chunks/d26080b79962a9dd.js"],"Game"]
-3:I[97367,["/_next/static/chunks/f84b1972043ae8b8.js"],"OutletBoundary"]
+2:I[28175,["/trivia-blitz/_next/static/chunks/6f6e388f0e883d70.js"],"Game"]
+3:I[97367,["/trivia-blitz/_next/static/chunks/f84b1972043ae8b8.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"buildId":"8UgoKDxBfr7MmA53Lqyfm","rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/_next/static/chunks/d26080b79962a9dd.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"JjNN64qr2P3ee7uX2brz0","rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/trivia-blitz/_next/static/chunks/6f6e388f0e883d70.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
 5:null
